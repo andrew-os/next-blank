@@ -1,3 +1,10 @@
+BLANK NEXT JS SITE:
+Hamburger Menu at Mobile
+Tailwind
+Basic Components
+
+Branch off this and create new Site
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
